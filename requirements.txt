@@ -1,0 +1,11 @@
+langchain
+nemo_toolkit
+requests
+beautifulsoup4
+pydantic
+fastapi
+uvicorn
+scikit-learn
+numpy
+pandas
+openai 
